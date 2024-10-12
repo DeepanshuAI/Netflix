@@ -11,7 +11,7 @@ body {
 }
 
 .main {
-    background-image: url("assets/images/aniflix.jpg");
+    background-image: url("./images/aniflix.jpg");
     background-position: center top;
     background-repeat: no-repeat;
     background-size: 1400px, 100vw;
